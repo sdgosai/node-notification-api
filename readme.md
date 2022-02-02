@@ -1,3 +1,6 @@
+// Install dependencies ...
+npm install
+
 // Express server run 7000 .... ( paste in terminal )
 npm start
 
